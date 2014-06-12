@@ -7,11 +7,13 @@ Python library for the Beaglebone Black to allow easy communication between 4D I
 
 This work was based on original code from William Phelps posted on the 4D Systems' forum.
 
-## Installation
+# Installation #
+
 Simply copy the file uLCD.py to your directory and import the library adding "import uLCD" to top of the file.
+
 ===============
 
-## Working example
+# Working example #
 Once you added the library, go ahead and control your GUI. Here's an example of how to use it:
 
 ```
