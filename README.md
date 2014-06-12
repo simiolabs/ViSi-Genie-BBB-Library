@@ -11,8 +11,6 @@ This work was based on original code from William Phelps posted on the 4D System
 
 Simply copy the file uLCD.py to your directory and import the library adding "import uLCD" to top of the file.
 
-===============
-
 # Working example #
 Once you added the library, go ahead and control your GUI. Here's an example of how to use it:
 
@@ -34,4 +32,3 @@ uLCD.vgWriteObject(uLCD.vgObject.LEDdigits, 11, 100) # update LED digits 11
 # turn on LED
 uLCD.vgWriteObject(uLCD.vgObject.LED, 0, 1) # turn on LED 0
 ```
-==================
