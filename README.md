@@ -9,7 +9,7 @@ This work was based on original code from William Phelps posted on the 4D System
 
 # Installation #
 
-Simply copy the file uLCD.py to your directory and import the library adding "import uLCD" to top of the file.
+Simply copy the file uLCD.py to your directory and import the library adding "import uLCD" to the top of the file.
 
 # Working example #
 Once you added the library, go ahead and control your GUI. Here's an example of how to use it:
